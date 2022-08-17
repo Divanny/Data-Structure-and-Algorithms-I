@@ -1,5 +1,5 @@
-Problemas de Esctructura de Datos y Algoritmos I desarrollado en C++.
+<h1>Problems of Data Structure and Algorithms I developed in C++.</h1>
 
-Problemas desarrollados:
-— Master Mind
-— Cubos Narcisistas
+<b>Problems developed:</b><br>
+— Master Mind I<br>
+— Narcissistic Cubes
