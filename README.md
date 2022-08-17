@@ -1,2 +1,5 @@
-# Estructura de Datos y Algoritmos I
-Repositorio creado para la materia de Estructura de Datos y Algoritmos
+Problemas de Esctructura de Datos y Algoritmos I desarrollado en C++.
+
+Problemas desarrollados:
+— Master Mind
+— Cubos Narcisistas
